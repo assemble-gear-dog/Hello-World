@@ -1,2 +1,4 @@
 # Hello-World
-It's practice.
+It's practice. So practice.
+It just started. 
+Only practice every day. 
